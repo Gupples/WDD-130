@@ -1,10 +1,18 @@
 p {
     font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
 }
 
 h1 {
-    margin: 15px 300px;
+    text-align: center;
 }
 img {
-    margin: 0 310px;
+    display: block;
+    margin: 0 auto;
+}
+
+.body {
+    width: 100%;
+    justify-content: center;
+    align-items: center;
 }
