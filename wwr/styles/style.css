@@ -43,7 +43,7 @@ h4 {
 }
 
 .book, .join {
-    background-color: #bf110e;
+    background-color: #1196F5;
     color: #2A0800;
     text-decoration: none;
 }
@@ -54,15 +54,15 @@ h4 {
 }
 
 .msg {
-    background-color: #2A0800;
+    background-color: #bf110e;
 }
 
 .msg h2 {
-    color: #bf110e;
+    color: #2A0800;
 }
 
 .msg p {
-    color: #bf110e;
+    color: #2A0800;
 }
 
 .button-box {
@@ -85,7 +85,7 @@ main section {
 
 footer {
     background-color: #1196F5;
-    color: #bf110e;
+    color: #2A0800;
     text-decoration: none;
 }
 
@@ -98,9 +98,10 @@ footer p a:hover {
 }
 
 footer a {
-    color: #F5F442;
+    color: #2A0800;
 }
 
 footer a:hover {
     color:#bf110e;
+    background-color: #2A0800;
 }
