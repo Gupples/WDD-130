@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    min-width: 250px;
+
+}
+
+#banner-div {
+    margin: 0;
+}
+#banner {
+    width: 100%;
+    
+}
+
+#boxes {
+    width: 100%;
+    background-color: grey;
+    margin: -4px auto auto auto;
+    text-align: center;
+
+}
+
+.image {
+    margin: 1em 3vw;
+    width: 20%;
+    border-radius: 50%;
+    border: 7px solid rgb(63, 63, 63);
+}
+
