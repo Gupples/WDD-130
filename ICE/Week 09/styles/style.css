@@ -1,0 +1,44 @@
+body{
+    background-color: black;
+    text-align: center;
+    justify-content: center;
+}
+
+.card {
+    border-radius: 15px 15px 0 0;
+    overflow: hidden;
+}
+.card, h5, h2 {
+    max-width: 250px;
+    margin: 0 auto;
+    background-color: white;
+}
+
+.header_img {
+    width: 100%;
+}
+
+.awesome_article {
+    padding: 0 10%;
+    background-color: white;
+    max-width: 123px;
+    text-align: center;
+    margin: 0 auto;
+    font-size: .8em;
+}
+.grid{
+    background-color: rgb(31, 31, 183);
+    max-width: 250px;
+    grid-template-columns: 1fr 1fr 1fr;
+    border: 2px solid grey;
+    height: 80px;
+    margin: 0 auto;
+    border-radius: 0 0 15px 15px;
+}
+.middle {
+    border: solid 1px grey;
+    border-bottom: 0;
+}
+.bottomtext {
+
+}
