@@ -288,6 +288,7 @@ button {
     left: 0;
     right: 0;
     padding: .5em;
+    /* Hide by default */
     display: none;
 }
 
